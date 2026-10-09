@@ -1,0 +1,9 @@
+title: "CasaPerfecto accessibility statement"
+description: "Public, version-controlled accessibility statement for CasaPerfecto."
+theme: jekyll-theme-primer
+markdown: kramdown
+exclude:
+  - README.md
+  - ACCESSIBILITY_STATEMENT.md
+  - KNOWN_ISSUES.md
+  - LICENSE
